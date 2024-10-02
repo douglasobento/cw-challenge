@@ -138,6 +138,4 @@ The dataset (`ecs_data.db`) contains the following tables:
 
 While initial analysis reveals significant data quality issues, these insights provide direction for improving the ECS system. Future analyses should focus on resolving data discrepancies and exploring alternative pathways to generate actionable insights.
 
-## License
-This project is licensed under the MIT License.
 
